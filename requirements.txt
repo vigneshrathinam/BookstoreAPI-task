@@ -1,0 +1,7 @@
+python version :3.12.1
+Name: djangorestframework
+Version: 3.14.0
+Name: drf-yasg
+Version: 1.21.7
+name:django
+version : 23.1.0
